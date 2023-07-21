@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="Converter">
+    <output-path>$PROJECT_DIR$/out/artifacts/Converter</output-path>
+    <root id="root">
+      <element id="archive" name="Converter.jar">
+        <element id="module-output" name="DSA_Assign_Rework" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/out/production/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
